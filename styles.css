@@ -1,0 +1,26 @@
+article{
+    margin-top: 12%;
+    margin-bottom: 12%;
+    margin-right: 12%;
+    margin-left: 12%;
+    font-size: 18px;
+  }
+header, h3 {
+    text-align: center;
+  }
+
+  p{
+    width: 1200px;
+    padding: 25px;
+    font-size: 18px;
+  }
+
+  .image{
+    display: flex;
+    justify-content: center;
+}
+
+#parenthood { 
+    text-align: center;
+    font-size: 22px;
+  }
